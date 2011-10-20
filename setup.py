@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 setup(
-    name = "OpenProximity-External-Data",
+    name = "openproximity-external-media",
     version = "0.1.1",
     packages = ['openproximity'],
     include_package_data = True,
@@ -8,5 +8,5 @@ setup(
     author_email = "manuel@aircable.net",
     description = "This is OpenProximity external metadata package",
     keywords = "openproximity proximity marketing bluetooth static",
-    url = "",
+    url = "https://github.com/OpenProximity/OpenProximity-web-3rdparty-static",
 )
