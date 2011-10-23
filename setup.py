@@ -1,7 +1,8 @@
 from setuptools import setup, find_packages
+
 setup(
     name = "openproximity-external-media",
-    version = "0.1.1",
+    version = "0.1.2",
     packages = ['openproximity'],
     include_package_data = True,
     author = "Naranjo Manuel Francisco",
